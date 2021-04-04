@@ -22,7 +22,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 Follow this if you are not running on heroku
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot
+$ git clone https://github.com/unknown281/Telegram_VC_Bot
 $ cd Telegram_VC_Bot
 $ pip3 install -U pip
 $ pip3 install -U -r requirements.txt
@@ -38,7 +38,7 @@ $ python3 main.py
 
 #### Generate String session [IMPORTANT]
 
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
+Download this file [generate_string_session.py](https://raw.githubusercontent.com/unknown281/Telegram_VC_Bot/master/generate_string_session.py)
 
 
 ```sh
